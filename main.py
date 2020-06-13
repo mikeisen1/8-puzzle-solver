@@ -2,6 +2,7 @@ import puzzle
 import sys
 import re
 
+#verifies inputs and solves the puzzle
 def main():
     argPuzzle = sys.argv[1]
     puzzleLst = []
@@ -177,5 +178,6 @@ def validPuzzle(lst):
             return False
     return True
 
+#calls the main() function, where the puzzle is created and solved
 if __name__ == '__main__':
     main()
