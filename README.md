@@ -2,9 +2,9 @@
 
 This project solves a given 8-puzzle to one of four possible 8-puzzle solutions. The 8-puzzle is a `3x3` puzzle with 8 tiles, numbered `1-8`. The last tile is the blank tile, which can be moved around to change the state of the puzzle and move it closer to the goal. In this project, there are four possible goal states of the 8-puzzle and they are as follows:
 
->|Goal State 1|Goal State 2|
-|--|--|
-|<table><tr><td>1</td><td>2</td><td>3</td></tr><tr><td>4</td><td>5</td><td>6</td></tr><tr><td>7</td><td>8</td><td></td></tr> </table>| <table><tr><td>1</td><td>2</td><td>3</td></tr><tr><td>8</td><td></td><td>4</td></tr><tr><td>7</td><td>6</td><td>5</td></tr></table>|
+|Goal State 1|Goal State 2|Goal State 3| Goal State 4
+|--|--|--|--|
+|<table><tr><td>1</td><td>2</td><td>3</td></tr><tr><td>4</td><td>5</td><td>6</td></tr><tr><td>7</td><td>8</td><td></td></tr> </table>| <table><tr><td>1</td><td>2</td><td>3</td></tr><tr><td>8</td><td></td><td>4</td></tr><tr><td>7</td><td>6</td><td>5</td></tr></table>|<table><tr><td></td><td>1</td><td>2</td></tr><tr><td>3</td><td>4</td><td>5</td></tr><tr><td>6</td><td>7</td><td>8</td></tr></table>|<table><tr><td>1</td><td>2</td><td>3</td></tr><tr><td>4</td><td>5</td><td>6</td></tr><tr><td></td><td>7</td><td>8</td></tr></table>
 
 
 
